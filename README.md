@@ -1,19 +1,19 @@
 # Speech Analysis
 This project aims to detect autism in children by analysing speech pattens<br>
 
-##Installation and configuration of Kaldi with PyKaldi wrapper<br><br>
+Installation and configuration of Kaldi with PyKaldi wrapper<br><br>
 
-#Background<br>
+Background<br>
 My Operating System is Linux Netrunner which is an Ubuntu variant.<br>
 It is better to have Anaconda installed, which will simplify developing [1].<br>
 Python version I use is Python 3.7.<br>
 
-#Introduction<br>
+Introduction<br>
 Kaldi is an open-source speech recognition toolkit written in C++ for speech recognition and signal
 processing, freely available under the Apache License v2.0 [2]. PyKaldi is a Python scripting layer for the
 Kaldi speech recognition toolkit [3].<br>
 
-#How to add pykaldi library into conda<br>
+How to add pykaldi library into conda<br>
 Made an empty conda environment which has no python libraries inside. I gave its name as 'kaldienv'
 when creating [4].<br>
 conda create --name kaldienv<br>
@@ -25,7 +25,7 @@ Other related libraries also will be installed into the environment with PyKaldi
 will list all the other related libraries installed with pykaldi.<br>
 conda list<br>
 
-4. How to setup computer to install Kaldi<br>
+How to setup computer to install Kaldi<br>
 Installed Kaldi using following steps.<br>
 I updated my OS.<br>
 sudo apt-get update<br>
@@ -41,7 +41,7 @@ libtool, subversion, libatlas3-base.<br>
 sudo apt-get install zlib1g-dev make automake autoconf bzip2 libtool subversion<br>
 sudo apt-get install libatlas3-base<br>
 
-5. How to install Kaldi<br>
+How to install Kaldi<br>
 I made a folder named kaldi.<br>
 mkdir kaldi<br>
 Cloned kaldi from github [8].<br>
@@ -76,7 +76,7 @@ Installed the language model kaldi_lm inside kaldi/tools directory.<br>
 cd kaldi/tools<br>
 extras/install_kaldi_lm.sh<br>
 
-6. References<br>
+References<br>
 [1] Anaconda. 2020. Anaconda Python/R Distribution - Free Download. [online] Available at:
 <https://www.anaconda.com/distribution/> [Accessed 24 April 2020].
 [2] Kaldi-asr.org. 2020. Kaldi ASR. [online] Available at: <https://kaldi-asr.org/> [Accessed 24 April 2020].
