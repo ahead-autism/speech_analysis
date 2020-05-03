@@ -78,25 +78,25 @@ extras/install_kaldi_lm.sh<br>
 
 References<br>
 [1] Anaconda. 2020. Anaconda Python/R Distribution - Free Download. [online] Available at:
-<https://www.anaconda.com/distribution/> [Accessed 24 April 2020].
-[2] Kaldi-asr.org. 2020. Kaldi ASR. [online] Available at: <https://kaldi-asr.org/> [Accessed 24 April 2020].
+<https://www.anaconda.com/distribution/> [Accessed 24 April 2020].<br>
+[2] Kaldi-asr.org. 2020. Kaldi ASR. [online] Available at: <https://kaldi-asr.org/> [Accessed 24 April 2020].<br>
 [3] Awesomeopensource.com. 2020. Pykaldi. [online] Available at:
-<https://awesomeopensource.com/project/pykaldi/pykaldi> [Accessed 24 April 2020].
+<https://awesomeopensource.com/project/pykaldi/pykaldi> [Accessed 24 April 2020].<br>
 [4] Docs.conda.io. 2020. Managing Environments — Conda 4.8.3.Post26+305Bf88e Documentation.
-[online] Available at: <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manageenvironments.html#creating-an-environment-with-commands> [Accessed 24 April 2020].
+[online] Available at: <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manageenvironments.html#creating-an-environment-with-commands> [Accessed 24 April 2020].<br>
 [5] GitHub. 2020. Pykaldi/Pykaldi. [online] Available at: <https://github.com/pykaldi/pykaldi> [Accessed
-24 April 2020].
+24 April 2020].<br>
 [6] En.wikipedia.org. 2020. CUDA. [online] Available at: <https://en.wikipedia.org/wiki/CUDA>
-[Accessed 24 April 2020].
+[Accessed 24 April 2020].<br>
 [7] En.wikipedia.org. 2020. Bc (Programming Language). [online] Available at:
-<https://en.wikipedia.org/wiki/Bc_(programming_language)> [Accessed 24 April 2020].
+<https://en.wikipedia.org/wiki/Bc_(programming_language)> [Accessed 24 April 2020].<br>
 [8] GitHub. 2020. Kaldi-Asr/Kaldi. [online] Available at: <https://github.com/kaldi-asr/kaldi> [Accessed 24
-April 2020].
+April 2020].<br>
 [9] Sox.sourceforge.net. 2020. Sox - Sound Exchange | Homepage. [online] Available at:
-<http://sox.sourceforge.net/> [Accessed 24 April 2020].
+<http://sox.sourceforge.net/> [Accessed 24 April 2020].<br>
 [10] Groups.google.com. 2020. Google Groups. [online] Available at:
-<https://groups.google.com/forum/#!topic/kaldi-help/DJ0ScJ2AXWo> [Accessed 24 April 2020].
+<https://groups.google.com/forum/#!topic/kaldi-help/DJ0ScJ2AXWo> [Accessed 24 April 2020].<br>
 [11] Corporation, I., 2020. Download Intel® Performance Libraries - Intel® Products. [online]
 Registrationcenter.intel.com. Available at:
 <https://registrationcenter.intel.com/en/products/postregistration/?sn=N2R2-
-SR38476P&EmailID=vijani.p%40sliit.lk&Sequence=2696843&dnld=t> [Accessed 24 April 2020].
+SR38476P&EmailID=vijani.p%40sliit.lk&Sequence=2696843&dnld=t> [Accessed 24 April 2020].<br>
