@@ -1,0 +1,15 @@
+<eps> 0
+<UNK> 1
+EIGHT 2
+FIVE 3
+FOUR 4
+NINE 5
+ONE 6
+SEVEN 7
+SIX 8
+TEN 9
+THREE 10
+TWO 11
+#0 12
+<s> 13
+</s> 14
