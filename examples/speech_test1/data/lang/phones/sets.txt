@@ -1,5 +1,5 @@
-oov oov_B oov_E oov_I oov_S
-SIL SIL_B SIL_E SIL_I SIL_S
+sil sil_B sil_E sil_I sil_S
+spn spn_B spn_E spn_I spn_S
 AH_B AH_E AH_I AH_S
 AO_B AO_E AO_I AO_S
 AY_B AY_E AY_I AY_S

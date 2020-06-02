@@ -1,5 +1,5 @@
-shared split oov oov_B oov_E oov_I oov_S
-shared split SIL SIL_B SIL_E SIL_I SIL_S
+shared split sil sil_B sil_E sil_I sil_S
+shared split spn spn_B spn_E spn_I spn_S
 shared split AH_B AH_E AH_I AH_S
 shared split AO_B AO_E AO_I AO_S
 shared split AY_B AY_E AY_I AY_S
