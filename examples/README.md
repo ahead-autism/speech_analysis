@@ -14,3 +14,6 @@ ASR, alignment, segmentation and feature extraction scenarios.
 ## notebooks
 
 Example Jupyter notebooks demonstrating how PyKaldi can be used interactively.
+
+## speech_test1
+data files and setup for a simple ASR for counting 1-10, to understand the tools of kaldi 
